@@ -2,7 +2,7 @@
 
 A lightweight, responsive web application for organizing in-person Secret Santa gift exchanges.
 
-🔗 **[Try It Live](https://YOUR-USERNAME.github.io/secret-santa-picker/)**
+🔗 **[Try It Live](https://m-ioan.github.io/secret-santa-picker/)**
 
 
 ## Features
